@@ -101,3 +101,9 @@ body {font-family: Verdana, sans-serif;}
 .divTableBody {
     display: table-row-group;
 }
+.today
+{
+    margin: 0;
+    padding: 10px 0;
+    background-color:#666;
+}
