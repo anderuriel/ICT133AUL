@@ -9,8 +9,8 @@ if(isset($_GET['action']))
         case 'home';
         home();
         break;
-        case 'contact';
-        contact();
+        case 'login';
+        LogIn();
         break;
         default;
         home();
