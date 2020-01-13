@@ -1,5 +1,5 @@
 <?php
-// Output Buffering
+// Output Buffering Start
 ob_start();
 $title = "Rent A Snow - accueuil"
 ?>
