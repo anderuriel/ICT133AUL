@@ -109,6 +109,16 @@
 
             <div class="row-fluid">
                 <!--Edit Main Content Area here-->
+                <p><?php if(isset($_SESSION['user_session']))
+                    {
+                        echo "connecté en tant que " , $_SESSION['user_session'];
+                    }
+                    else
+                    {
+                        echo "vous n'êtes pas connecté";
+                    }
+                    ?>
+                </p>
                 <?=$content;?>
                 <!--End Main Content-->
             </div>

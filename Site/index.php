@@ -10,7 +10,10 @@ if(isset($_GET['action']))
         home();
         break;
         case 'login';
-        LogIn();
+        LogIn($_POST);
+        break;
+        case 'register';
+        Register($_POST);
         break;
         default;
         home();
