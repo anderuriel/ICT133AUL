@@ -8,9 +8,11 @@
 echo '<link rel="stylesheet" href="tableless_calendar_style.css">';
 $day = 1;
 $weekDays = ["Lundi" => "Lun","Mardi" => "Mar","Mercredi" => "Mer","Jeudi" => "Jeu","Vendredi" => "Ven","Samedi" => "Sam","Dimanche" => "Dim"];
-$monthYears = ["Janvier"];
+$monthYears = ["Janvier","Fevrier","Mars","Avril","Juin","Juillet","Aout","Septembre","Octcobre","Decembre"];
 echo '<div class="divTableHead">';
+echo '<link><</link>';
 echo date("F");
+echo '<link>></link>';
 echo '</div>';
     echo '<div class="divTable">';
         echo '<div class="divTableBody">';

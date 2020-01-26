@@ -1,10 +1,10 @@
+<?php
 /*
 Projet: Calendar.php
 Auteur: Uriel Ander
 Version: 6.9
 Date: 02.12.2019
 */
-<?php
     $day = 1;
     echo '<table style="width: 100%">';
     echo '<caption>';

@@ -96,6 +96,9 @@
       <workItem from="1578927155577" duration="504000" />
       <workItem from="1579503688294" duration="4676000" />
       <workItem from="1579523632439" duration="6131000" />
+      <workItem from="1579556209024" duration="1328000" />
+      <workItem from="1579716157341" duration="988000" />
+      <workItem from="1580064246140" duration="453000" />
     </task>
     <servers />
   </component>
@@ -115,64 +118,22 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/model/model.php</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/model/model.php</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/model/model.php</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/model/model.php</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/model/model.php</url>
-          <line>19</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.php</url>
-          <line>1</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.php</url>
-          <line>4</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.php</url>
-          <line>6</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php-line-method">
-          <url>file://$PROJECT_DIR$/controller/controller.php</url>
-          <line>27</line>
-          <properties>
-            <option name="className" value="" />
-            <option name="methodName" value="\Register" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state width="2151" height="345" key="GridCell.Tab.0.bottom" timestamp="1579559443151">
+      <screen x="0" y="0" width="2194" height="1234" />
+    </state>
+    <state width="2151" height="345" key="GridCell.Tab.0.bottom/0.0.2194.1234/-1920.609.1858.1080@0.0.2194.1234" timestamp="1579559443151" />
+    <state width="2151" height="345" key="GridCell.Tab.0.center" timestamp="1579559443150">
+      <screen x="0" y="0" width="2194" height="1234" />
+    </state>
+    <state width="2151" height="345" key="GridCell.Tab.0.center/0.0.2194.1234/-1920.609.1858.1080@0.0.2194.1234" timestamp="1579559443150" />
+    <state width="2151" height="345" key="GridCell.Tab.0.left" timestamp="1579559443150">
+      <screen x="0" y="0" width="2194" height="1234" />
+    </state>
+    <state width="2151" height="345" key="GridCell.Tab.0.left/0.0.2194.1234/-1920.609.1858.1080@0.0.2194.1234" timestamp="1579559443150" />
+    <state width="2151" height="345" key="GridCell.Tab.0.right" timestamp="1579559443151">
+      <screen x="0" y="0" width="2194" height="1234" />
+    </state>
+    <state width="2151" height="345" key="GridCell.Tab.0.right/0.0.2194.1234/-1920.609.1858.1080@0.0.2194.1234" timestamp="1579559443151" />
   </component>
 </project>
